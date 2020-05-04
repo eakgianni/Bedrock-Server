@@ -1,0 +1,15 @@
+C:/Users/andre/Desktop/bedrock server/internalStorage/Dedicated_Server.txt
+[2020-05-01 22:51:15 INFO] Starting Server
+[2020-05-01 22:51:15 INFO] Version 1.14.60.5
+[2020-05-01 22:51:15 INFO] Session ID b4c93702-7195-4fb6-908e-255fd404816b
+[2020-05-01 22:51:15 INFO] Level Name: Bedrock level
+[2020-05-01 22:51:15 INFO] Game mode: 0 Survival
+[2020-05-01 22:51:15 INFO] Difficulty: 1 EASY
+[2020-05-01 22:51:15 INFO] opening worlds/Bedrock level/db
+[2020-05-01 22:51:17 INFO] IPv4 supported, port: 19132
+[2020-05-01 22:51:17 INFO] IPv6 supported, port: 19133
+[2020-05-01 22:51:17 INFO] IPv4 supported, port: 58308
+[2020-05-01 22:51:17 INFO] IPv6 supported, port: 58309
+[2020-05-01 22:51:17 INFO] Server started.
+[2020-05-01 22:52:11 INFO] Player connected: SmoothJazz135, xuid: 2535442439423832
+[2020-05-01 22:55:15 INFO] Player disconnected: SmoothJazz135, xuid: 2535442439423832

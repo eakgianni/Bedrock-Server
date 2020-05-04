@@ -1,15 +1,15 @@
 C:/Users/andre/Documents/GitHub/Bedrock-Server/bedrock server - Copy/internalStorage/Dedicated_Server.txt
-[2020-05-04 08:55:04 INFO] Starting Server
-[2020-05-04 08:55:04 INFO] Version 1.14.60.5
-[2020-05-04 08:55:04 INFO] Session ID 4616eef3-cc25-4334-a35e-d0e7f6a91ef4
-[2020-05-04 08:55:04 INFO] Level Name: Bedrock level
-[2020-05-04 08:55:04 INFO] Game mode: 0 Survival
-[2020-05-04 08:55:04 INFO] Difficulty: 1 EASY
-[2020-05-04 08:55:05 INFO] opening worlds/Bedrock level/db
-[2020-05-04 08:55:10 INFO] IPv4 supported, port: 19132
-[2020-05-04 08:55:10 INFO] IPv6 supported, port: 19133
-[2020-05-04 08:55:10 INFO] IPv4 supported, port: 57322
-[2020-05-04 08:55:10 INFO] IPv6 supported, port: 57323
-[2020-05-04 08:55:10 INFO] Server started.
-[2020-05-04 08:57:39 INFO] Player connected: SmoothJazz135, xuid: 2535442439423832
-[2020-05-04 08:58:05 INFO] Player disconnected: SmoothJazz135, xuid: 2535442439423832
+[2020-05-04 08:59:01 INFO] Starting Server
+[2020-05-04 08:59:01 INFO] Version 1.14.60.5
+[2020-05-04 08:59:01 INFO] Session ID ce540b3c-4707-4deb-a717-284a79f54185
+[2020-05-04 08:59:01 INFO] Level Name: Bedrock level
+[2020-05-04 08:59:01 INFO] Game mode: 0 Survival
+[2020-05-04 08:59:01 INFO] Difficulty: 1 EASY
+[2020-05-04 08:59:01 INFO] opening worlds/Bedrock level/db
+[2020-05-04 08:59:02 INFO] IPv4 supported, port: 19132
+[2020-05-04 08:59:02 INFO] IPv6 supported, port: 19133
+[2020-05-04 08:59:02 INFO] IPv4 supported, port: 50858
+[2020-05-04 08:59:02 INFO] IPv6 supported, port: 50859
+[2020-05-04 08:59:02 INFO] Server started.
+[2020-05-04 08:59:07 INFO] Player connected: SmoothJazz135, xuid: 2535442439423832
+[2020-05-04 08:59:30 INFO] Player disconnected: SmoothJazz135, xuid: 2535442439423832
